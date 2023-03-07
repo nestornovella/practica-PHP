@@ -1,0 +1,15 @@
+.botton{
+    background-color: rgb(38, 0, 255);
+    color: white;
+    border: none;
+
+}
+
+.containerButons{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    background-color: yellow;
+    
+
+}
